@@ -1,2 +1,7 @@
 # Multi-Authentication-Package-php
-Authentication using pdf417(Driver License ), code39 barcodes. And also OAuth and OpenID.
+Authentication Package using
+
+pdf417 barcode (US Driver Lisecnse)
+code39 barcode (College IDs)
+OpenID(various OpenID providers like Yahoo, steam. myspace)
+OAuth(clever)
