@@ -22,9 +22,9 @@ if($_SERVER && array_key_exists('REQUEST_URI', $_SERVER)) {
 function set_options(array $override_options = NULL) {
   $options = array(
     // Obtain your Client ID and secret from your Clever developer dashboard at https://account.clever.com/partner/applications
-    'client_id' => 'a0a6aa97a2c7f4dbbb2e',
-    'client_secret' => '47585e6979a34a7530218b6c51c0c4a298cf5594',
-    'clever_redirect_base' => 'http://localhost:8000',
+    'client_id' => 'xxxxxxxxxxxxxxx',
+    'client_secret' => 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    'clever_redirect_base' => 'http://localhost:2587',
     'clever_oauth_base' => 'https://clever.com/oauth',
     'clever_api_base' => 'https://api.clever.com',
   );
