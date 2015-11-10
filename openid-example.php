@@ -28,7 +28,7 @@ require 'src/openid.php';
 		if(! $opID->mode )
 	        {
 	            $opID->identity = 'me.yahoo.com';
-	            //$opID->identity = 'myspace.com/ezio_ram';
+	            //$opID->identity = 'myspace.com/{user_id}';
 	            //$opID->identity = 'login.ubuntu.com';
 	            //$opID->identity = 'steamcommunity.com/openid/';
 	          
