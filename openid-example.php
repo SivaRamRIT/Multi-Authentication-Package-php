@@ -9,8 +9,6 @@ require 'src/openid.php';
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Title of the document</title>
-<!--<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">-->
-<!--<link rel="stylesheet" type="text/css" href="css/font-awesome.css">-->
 <link rel="stylesheet" type="text/css" href="css/bootstrap-social.css">
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 
