@@ -18,13 +18,25 @@
 <h4>Steps</h4>
 
 <h5>Clever - OAuth:</h5>
+
+Note: A registered clever account has to exist to use this login feature.
+
 <ul>
 <li>Create an app for your website in <a href='https://clever.com/developers'>clever</a> developer console.</li>
+<li>Create a redirect url</li>
 <li>Note the client token and client secret.</li>
-<li>Refer clever-example.php to see where to input the client token and client secret.</li>
+<li>Refer clever-example.php to see where to input the client token, client secret and redirect url.</li>
 </ul>
 
+Visit <a href='https://dev.clever.com/'>here</a> for more detailed information.
 
+<h5>LightOpenID:</h5>
+
+
+<ul>
+<li>Create an account in any one of the OpenID providers. See <a href='http://openid.net/get-an-openid/'>here</a> for list of OpenID providers</li>
+<li>Each provider has a specific OpenID url. Note that url and refer openid-example.php to see where to use it.</li>
+</ul>
 
 
 
