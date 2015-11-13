@@ -38,5 +38,16 @@ Visit <a href='https://dev.clever.com/'>here</a> for more detailed information.
 <li>Each provider has a specific OpenID url. Note that url and refer openid-example.php to see where to use it.</li>
 </ul>
 
+Visit <a href='https://github.com/iignatov/LightOpenID'>here</a> for more detailed information.
+
+<h5>Pdf417 Barcode</h5>
+
+<p>I added a little code to <a href='https://github.com/PeculiarVentures/js-zxing-pdf417'>js-zxing-pdf417</a></br> so that, a webcam can be used to read the barcode. Also I used camanJS to manipulate image from webcam in case the default image is not readable by the library. As an alternate method, an image can be uploaded too.</p>
+
+<h6>Requirements:</h6> <p> Since the library needs an excellant quality image, a webcam with manual focus would be more appropriate to get a sharper image.</p>
+
+<p>Refer pdf417-example.php to see the complete usage</p>
+
+
 
 
