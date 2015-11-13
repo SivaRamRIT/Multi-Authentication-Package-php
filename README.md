@@ -21,11 +21,11 @@
 
 <p>I added a little code to <a href='https://github.com/PeculiarVentures/js-zxing-pdf417'>js-zxing-pdf417</a> so that, a webcam can be used to read the barcode. Also I used <a href='https://github.com/meltingice/CamanJS'>CamanJS</a> to manipulate image from webcam in case the default image is not readable by the library. As an alternate method, an image can be uploaded too.</p>
 
-<h6>Requirements:</h6> <p> Since the library needs an excellant quality image, a webcam with manual focus would be more appropriate to get a sharper image.</p>
+<h6>Requirements:</h6> <p> Since the library needs an excellant quality image to work, a webcam with manual focus would be more appropriate to get a sharper image.</p>
 
 <p>Refer pdf417-example.php to see the complete usage of authentication</p>
 
-<h4>Code39 Barcode</h5>
+<h5>Code39 Barcode</h5>
 
 <p>Code39 Barcode type is found in most of the US college IDs. This package can be used to login the user using thier college IDs. Refer to code39-example.php to see the full usage</p>
 
