@@ -1,5 +1,5 @@
 # Multi-Authentication-Package-php
-Authentication Package using
+<h3>Authentication Package using</h3>
 
 pdf417 barcode (US Driver License)
 code39 barcode (College IDs)
@@ -14,6 +14,7 @@ QuaggaJS
 Bootstrap
 LightOpenID
 Clever
+
 
 
 
