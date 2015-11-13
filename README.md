@@ -7,13 +7,13 @@
 <p>OAuth(clever)</p>
 
 <h4>Libraries used:</h4>
-<a href='https://github.com/PeculiarVentures/js-zxing-pdf417'>js-zxing-pdf417</a> 
-<a href='https://github.com/meltingice/CamanJS'>CamanJS</a>
-<a href='https://github.com/jhuckaby/webcamjs'>WebcamJS</a>
-<a href='https://github.com/serratus/quaggaJS'>QuaggaJS</a>
-<a href='https://github.com/twbs/bootstrap'>Bootstrap</a>
-<a href='https://github.com/matula/laravel-lightopenid'>LightOpenID</a>
-<a href='https://github.com/Clever/clever-oauth-examples/tree/master/php'>Clever</a>
+<a href='https://github.com/PeculiarVentures/js-zxing-pdf417'>js-zxing-pdf417</a></br>
+<a href='https://github.com/meltingice/CamanJS'>CamanJS</a></br>
+<a href='https://github.com/jhuckaby/webcamjs'>WebcamJS</a></br>
+<a href='https://github.com/serratus/quaggaJS'>QuaggaJS</a></br>
+<a href='https://github.com/twbs/bootstrap'>Bootstrap</a></br>
+<a href='https://github.com/matula/laravel-lightopenid'>LightOpenID</a></br>
+<a href='https://github.com/Clever/clever-oauth-examples/tree/master/php'>Clever</a></br>
 
 
 
