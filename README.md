@@ -19,7 +19,7 @@
 
 <h5>Clever - OAuth:</h5>
 <ul>
-<li>Create an app for your website in clever developer console.</li>
+<li>Create an app for your website in <a href='https://clever.com/developers'>clever</a> developer console.</li>
 <li>Note the client token and client secret.</li>
 <li>Refer clever-example.php to see where to input the client token and client secret.</li>
 </ul>
