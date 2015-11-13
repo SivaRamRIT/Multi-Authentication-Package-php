@@ -17,6 +17,21 @@
 
 <h4>Steps</h4>
 
+<h5>Pdf417 Barcode</h5>
+
+<p>I added a little code to <a href='https://github.com/PeculiarVentures/js-zxing-pdf417'>js-zxing-pdf417</a> so that, a webcam can be used to read the barcode. Also I used <a href='https://github.com/meltingice/CamanJS'>CamanJS</a> to manipulate image from webcam in case the default image is not readable by the library. As an alternate method, an image can be uploaded too.</p>
+
+<h6>Requirements:</h6> <p> Since the library needs an excellant quality image, a webcam with manual focus would be more appropriate to get a sharper image.</p>
+
+<p>Refer pdf417-example.php to see the complete usage of authentication</p>
+
+<h4>Code39 Barcode</h5>
+
+<p>Code39 Barcode type is found in most of the US college IDs. This package can be used to login the user using thier college IDs. Refer to code39-example.php to see the full usage</p>
+
+<a href='https://github.com/serratus/quaggaJS'>QuaggaJS</a> is used to read the barcode. This library can be used to read other types of 1D barcode like code 128, EAN 8, etc. See <a href='https://serratus.github.io/quaggaJS/'>here for more information.
+
+
 <h5>Clever - OAuth:</h5>
 
 Note: A registered clever account has to exist to use this login feature.
@@ -40,13 +55,6 @@ Visit <a href='https://dev.clever.com/'>here</a> for more detailed information.
 
 Visit <a href='https://github.com/iignatov/LightOpenID'>here</a> for more detailed information.
 
-<h5>Pdf417 Barcode</h5>
-
-<p>I added a little code to <a href='https://github.com/PeculiarVentures/js-zxing-pdf417'>js-zxing-pdf417</a></br> so that, a webcam can be used to read the barcode. Also I used camanJS to manipulate image from webcam in case the default image is not readable by the library. As an alternate method, an image can be uploaded too.</p>
-
-<h6>Requirements:</h6> <p> Since the library needs an excellant quality image, a webcam with manual focus would be more appropriate to get a sharper image.</p>
-
-<p>Refer pdf417-example.php to see the complete usage</p>
 
 
 
